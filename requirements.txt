@@ -1,0 +1,6 @@
+pandas>=3.0,<4
+numpy
+matplotlib
+seaborn
+scikit-learn>=1.4
+ipykernel
